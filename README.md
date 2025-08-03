@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer science,Web development,Machine learning
 - 🌱 I’m currently learning Computer science,Machine learning,Web development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://my-portfolio-1-navy.vercel.app
+- 📫 How to reach me https://www.yasirukodikara.online
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The term “algorithm” comes from the name of a 9th-century Persian mathematician, Al-Khwarizmi. His works introduced algebra to Europe — and centuries later, his name evolved into one of the most important words in computer science! 🧮💻
 
