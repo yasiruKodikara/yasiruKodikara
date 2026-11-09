@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasiruKodikara
 - 👀 I’m interested in Computer science,Web development,Machine learning
-- 🌱 I’m currently learning Computer science,Machine learning,Web development 
+- 🌱 I’m currently learning Computer Science, Artificial Intelligence and Machine learning, Full Stack Software Engineering. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.yasirukodikara.online
 - 😄 Pronouns: he/him
